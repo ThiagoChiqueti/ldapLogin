@@ -1,0 +1,29 @@
+# Arquivos gerados automaticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+env/
+
+# Arquivos de configuração específicos de ambiente
+*.env
+
+# Arquivos de log e caches
+*.log
+*.cache
+
+# Arquivos específicos do sistema operacional ou IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Arquivos de build
+*.pyc
+*.pyo
+*.pyd
+
+# Outros arquivos a serem ignorados conforme necessário
+flask_session/
